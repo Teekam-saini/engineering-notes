@@ -1,31 +1,6 @@
-```markdown
-#  Design Abstraction Levels
-
-
-
-```
-
-┌─────────────────────────────────────────────┐
-│         ABSTRACTION LEVELS (Topic 1)         │  ← Where you write
-├─────────────────────────────────────────────┤
-│    SIMULATION SEMANTICS (Topic 2)            │  ← How the simulator thinks
-│    BLOCKING vs NON-BLOCKING (Topic 3)        │
-├─────────────────────────────────────────────┤
-│    SYNTHESIS vs SIMULATION (Topic 4)         │  ← The translation gap
-├─────────────────────────────────────────────┤
-│    COMBINATIONAL THEORY (Topic 5)            │  ← Logic fundamentals
-│    SEQUENTIAL THEORY (Topic 6)               │
-│    TIMING (Topic 7)                          │
-├─────────────────────────────────────────────┤
-│    X and Z VALUES (Topic 8)                  │  ← The hidden complexity
-├─────────────────────────────────────────────┤
-│    STANDARDS EVOLUTION (Topic 9)             │  ← Context and history
-│    CODING STANDARDS (Topic 10)               │  ← Professional practice
-└─────────────────────────────────────────────┘
-
 ```md
 
-## TOPIC 1: Design Abstraction Levels
+## Design Abstraction Levels
 
 ### 1.1 The Core Idea: What Is an Abstraction Level?
 When you design hardware, you're describing the same physical reality at different levels of detail. A flip-flop is simultaneously:
