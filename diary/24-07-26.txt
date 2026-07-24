@@ -1,0 +1,21 @@
+24 July 2026
+
+Today I made new GitHub repositories according to my future goals.
+
+Right now I'm learning Verilog. I've learned the basic syntax and how to write testbenches. I've made basic logic gates, sequential circuits like flip-flops and registers, and combinational circuits like adders, multiplexers, and decoders. I've also built a few FSMs.
+
+Currently, I'm improving my Verilog skills by solving HDLBits problems.
+
+Today is 24 July 2026. My ultimate goal is to build my own RISC-V processor and a tiny operating system with its own terminal.
+
+My next diary entry will be one month from now, on 24 August 2026. In that entry, I'll check whether I actually achieved the goals I'm setting today.
+
+Goals for this month:
+1. Finish all HDLBits problems.
+2. Finish learning Verilog and build my ALU, FIFO, and UART.
+3. Complete Digital Electronics for GATE and finish two units of EDC.
+4. Finish Linux Notes Phase 3.
+
+I know it won't always be easy, but if I stay consistent, I can do it.
+
+See you in one month.
