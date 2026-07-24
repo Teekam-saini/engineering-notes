@@ -4,7 +4,7 @@ This directory contains my Linux notes and command references.
 
 ## Learning Roadmap
 
-### Phase 1: Linux Foundations (Complete)
+### Phase 1: Linux Foundations 
 
 * File system basics
 * File operations
@@ -14,17 +14,7 @@ This directory contains my Linux notes and command references.
 * File permissions and ownership (`chmod`, `chown`, `umask`)
 * Review + Mini Project (Log Analyzer)
 
-### Phase 2: Terminal & Git Essentials (Current Phase)
-
-* Shell scripting basics 
-* Git basics (`init`, `status`, `add`, `commit`, `log`)
-* GitHub workflow (`clone`, `push`, `pull`, `.gitignore`)
-* Branching and merging (`branch`, `checkout`, `merge`)
-* Git utilities (`diff`, `stash`, `restore`, `reset`)
-* `man`, `tldr`, and help commands
-* Review + Project (Version Control an RTL Project)
-
-### Phase 3: Shell Scripting Basics (Complete)
+### Phase 2: Shell Scripting Basics 
 
 * First shell script (variables, `echo`, shebang)
 * User input and arguments
@@ -33,6 +23,16 @@ This directory contains my Linux notes and command references.
 * Functions and return values
 * Arrays and string manipulation
 * Review + Project (Verilog File Organizer)
+
+### Phase 3: Terminal & Git Essentials 
+ 
+* Git basics (`init`, `status`, `add`, `commit`, `log`)
+* GitHub workflow (`clone`, `push`, `pull`, `.gitignore`)
+* Branching and merging (`branch`, `checkout`, `merge`)
+* Git utilities (`diff`, `stash`, `restore`, `reset`)
+* `man`, `tldr`, and help commands
+* Review + Project (Version Control an RTL Project)
+
 
 ### Phase 4: Advanced Shell & Linux
 
