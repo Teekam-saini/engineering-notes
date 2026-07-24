@@ -1,5 +1,6 @@
 ````md id="7v6m8p"
-## Shell Script
+
+# Shell Script
 
 # What is a Shell Script?
 
