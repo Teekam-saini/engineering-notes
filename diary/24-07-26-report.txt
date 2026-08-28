@@ -1,0 +1,38 @@
+# Monthly Progress Report
+
+One month has been completed, so I reviewed the goals I set at the beginning of the month and evaluated my progress.
+
+## Goals for the Previous Month
+
+1. Complete all HDLBits problems.
+2. Complete Verilog learning and build an ALU, FIFO, and UART.
+3. Complete Digital Electronics preparation for GATE and finish two units of EDC.
+4. Complete Linux Notes Phase 3.
+
+## Progress Report
+
+**1. HDLBits:**
+Completed **124 out of 185 problems**, achieving approximately **67%** of the target. This gave me significant practice with Verilog and digital logic.
+
+**2. Verilog and Projects:**
+Successfully built the **ALU**, but could not complete the FIFO and UART projects. I spent more time than expected on HDLBits and Linux.
+
+**3. Digital Electronics and EDC:**
+I dropped my GATE preparation but successfully completed my **Digital Electronics notes**. I could not complete the planned two units of EDC.
+
+**4. Linux Notes Phase 3:**
+Successfully completed the notes and projects up to **Linux Notes Phase 3**.
+
+## Overall Performance
+
+My overall goal achievement rate was approximately **63%**. I made good progress, but I could not complete all my planned tasks. The main issue was setting too many goals while managing college and other responsibilities.
+
+## Lessons Learned
+
+This month taught me to set **realistic goals and manage my priorities better**. I need to account for unexpected tasks and avoid spending too much time on one area at the expense of others.
+
+## Summary
+
+Overall, I made solid progress in HDLBits, Verilog, Digital Electronics, and Linux. Although I fell short of my original targets, this month helped me understand how to plan more realistically and manage my time better.
+
+**Overall Goal Achievement Rate: 63%**
