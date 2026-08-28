@@ -1,0 +1,10 @@
+28-september-26
+
+second month towards my journey. while moving forward and building my foundation in rtl.
+
+these are all the goals i have decided to complete in month:-
+
+- complete hdl bits problem
+- complete verilog and make fifo and uart 
+- linux phase 4
+- vlsi phase 2 with proper notes
