@@ -4,7 +4,7 @@ second month towards my journey. while moving forward and building my foundation
 
 these are all the goals i have decided to complete in month:-
 
-- complete hdl bits problem
-- complete verilog and make fifo and uart 
+- hdl bits problem section of fsm
+- complete verilog and make register file for alu and do some persnol practice 
 - linux phase 4
 - vlsi phase 2 with proper notes
