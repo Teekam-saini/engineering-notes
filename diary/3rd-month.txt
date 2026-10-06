@@ -1,0 +1,10 @@
+6-oct-26
+
+third month towards my journey. while moving forward to build my foundation in rtl.
+
+these are all the goals i have decdied to complete this month:-
+
+- hdl bits fsm problem section and building larger circutes section
+- linux phase 5
+- vlsi phase 3
+- verilog projects like i2c and spi and uart in fpga
