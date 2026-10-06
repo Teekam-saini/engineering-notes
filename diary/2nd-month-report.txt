@@ -1,0 +1,25 @@
+6-oct-26
+
+report of my 2n-month goals-
+
+these were my 2nd month goals
+
+- hdl bits problem section of fsm
+- complete verilog and make register file for alu and do some persnol practice 
+- linux phase 4
+- vlsi phase 2 with proper notes
+
+completion status-
+
+- hdl bits problem section of fsm - 50% done
+- complete verilog and make register file for alu and do some persnol practice -100% done
+- linux phase 4 - 80% done
+- vlsi phase 2 with proper notes - 80% done
+
+total completion status evaluation - 77.5% done
+
+previoius month status evaluation - 63% 
+
+improvement - 14% increment
+
+will try to do 100% next time
