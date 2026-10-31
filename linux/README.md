@@ -54,16 +54,16 @@ This directory contains my Linux notes and command references.
 * Build a complete RTL workflow script
 * Project (One-command compile → simulate → open GTKWave)
 
-### Phase 6: Arch Linux + Hyprland
+###Week 6: NixOS + Hyprland
 
-* Arch Linux concepts and the Arch Wiki
-* Arch installation
-* System configuration
-* Package management (`pacman`, AUR, `yay`)
-* Development environment setup
-* Install RTL tools (`iverilog`, `gtkwave`, `verilator`, `yosys`)
-* Hyprland setup
-* Backup my Arch system
+* Nix concepts (declarative config, store, generations)
+* NixOS installation (graphical ISO or minimal, UEFI, partitioning)
+* First config: users, sudo, networking, flakes enabled
+* Nix package management (nix-shell, nix search, nix profile, garbage collection)
+* Hyprland on NixOS (programs.hyprland.enable, waybar, wofi, kitty)
+* Home Manager (dotfiles like .bashrc managed declaratively)
+* VLSI tools via Nix (iverilog, gtkwave, verilator, yosys) plus a per-project flake.nix dev shell
+* Put your NixOS config on GitHub and rebuild it from a fresh clone
 
 ### Phase 7: Productivity & Real Workflow
 
@@ -76,13 +76,10 @@ This directory contains my Linux notes and command references.
 
 ## Projects I'll Build
 
-* RTL Project Generator
 * Verilog File Organizer
-* Simulation Automation Script
-* Build Automation Script
-* Log Parser & Report Generator
 * One-Command RTL Workflow (build → simulate → open GTKWave)
-* RTL Backup & Archive Tool
-* Complete Linux Automation Toolkit
+* system usage dashboard system
+* backup tracker
+* local llm
 
 These notes are based on what I learn while using Linux and will continue to grow as I improve my workflow.
